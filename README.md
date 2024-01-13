@@ -4,11 +4,13 @@ to review:
 <br>
 https://nextjs.org/learn
 
+---
+
 Türkçe Notlarım:
 
 Eğitimle beraber yükleme yapmak için:
 
-npx create-next-app@latest nextjs-dashboard --use-npm --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example"
+`npx create-next-app@latest nextjs-dashboard --use-npm --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example"`
 
 /app/ui klasöründeki ***global.css*** projedeki ana css dosyasıdır.
 
