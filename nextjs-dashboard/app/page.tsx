@@ -17,6 +17,7 @@ export default function Page() {
   className="h-0 w-0 border-b-[30px] border-l-[20px] border-r-[20px] border-b-black border-l-transparent border-r-transparent"
 />
 <div className={styles.shape}></div>
+        
           <p className={`${montserrat.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>
           {/* <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}> */}
             <strong>Welcome to Acme.</strong> This is the example for the{' '}
@@ -25,6 +26,7 @@ export default function Page() {
             </a>
             , brought to you by Vercel.
           </p>
+          <p>Samet YILDIRIM</p>
           <Link
             href="/login"
             className="flex items-center gap-5 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base"
